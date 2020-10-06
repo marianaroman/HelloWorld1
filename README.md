@@ -1,5 +1,5 @@
 # HelloWorld1
 
-Esse é meu primeiro codigo no Github
+Esse é meu primeiro projeto Js
 
-by Mariana Roman 
+by Mariana Roman
